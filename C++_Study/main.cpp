@@ -8,6 +8,16 @@ int main()
 	//const int a = 5;
 
 
+	// 参考条件演算子
+	//bool isChack = false;
+	//int a = 0;
+	//isChack ? a = 1 : a = 5;
+	//std::cout << a << std::endl;
+
+
+
+
+
 
 	return 0;
 }
