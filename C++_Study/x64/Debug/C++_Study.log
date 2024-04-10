@@ -1,4 +1,3 @@
 ﻿  main.cpp
 C:\Users\sanda\source\repos\Cplus_Study\C++_Study\main.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
-C:\Users\sanda\source\repos\Cplus_Study\C++_Study\main.cpp(18,7): error C2601: 'abx': ローカル関数の定義が正しくありません。
-C:\Users\sanda\source\repos\Cplus_Study\C++_Study\main.cpp(4): message : この行に含まれる '{' に対応するものがありません
+  C++_Study.vcxproj -> C:\Users\sanda\source\repos\Cplus_Study\x64\Debug\C++_Study.exe
